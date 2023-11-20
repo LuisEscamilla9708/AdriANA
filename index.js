@@ -2,7 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('SABIA QUE DIRIAS SI')
-    alert('ME HACES LA PERSONA MAS FELIZ')
+    alert('Te quiero Adriana')
 });
 
 const noBtn = document.querySelector('#noBtn');
